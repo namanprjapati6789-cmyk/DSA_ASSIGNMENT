@@ -1,0 +1,77 @@
+========================================
+     LINKED LIST MANAGEMENT SYSTEM
+========================================
+
+========== SINGLY LINKED LIST ==========
+
+Insert at Beginning:
+10
+
+Insert at End:
+20
+
+Insert at End:
+30
+
+Display:
+10 -> 20 -> 30 -> NULL
+
+Search:
+Enter value: 20
+Value found at position: 2
+
+Count Nodes:
+Total nodes: 3
+
+Find Maximum:
+Maximum: 30
+
+Find Minimum:
+Minimum: 10
+
+Reverse:
+List reversed.
+
+Display after Reverse:
+30 -> 20 -> 10 -> NULL
+
+
+========== DOUBLY LINKED LIST ==========
+
+Insert at Beginning:
+10
+
+Insert at End:
+20
+
+Insert at End:
+30
+
+Display Forward:
+NULL <- 10 <-> 20 <-> 30 -> NULL
+
+Display Backward:
+NULL <- 30 <-> 20 <-> 10 -> NULL
+
+Search:
+Enter value: 20
+Value found at position: 2
+
+Count Nodes:
+Total nodes: 3
+
+Find Maximum:
+Maximum: 30
+
+Find Minimum:
+Minimum: 10
+
+Reverse:
+List reversed.
+
+Display Forward after Reverse:
+NULL <- 30 <-> 20 <-> 10 -> NULL
+
+========================================
+             END OF OUTPUT
+========================================
